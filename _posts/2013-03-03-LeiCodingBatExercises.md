@@ -5,7 +5,7 @@ title: Lei's Pipes & Filters
 ---
 # Process
 
-I have used Linux command a lot before, however just bascis command such as ""... This exercise not hard but I found shell is very useful and http://www.thegeekstuff.com/2010/11/50-linux-commands/
+I used to have some experience with basic shell command before, therefore this exercise was not hard for me to get start with. It gave me a chance to refresh my knowledge about shell command as well. I also found the website http://www.thegeekstuff.com/2010/11/50-linux-commands/ very useful for shell command beginners and learned a lot from it.
 ___
 ## Exercise
 
