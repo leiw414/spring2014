@@ -1,7 +1,7 @@
 ---
 layout: post
-author: yonghao
-title: yonghao's final meetup report
+author: lei
+title: Lei's meetup reflection
 date: 2014-05-03
 ---
 
