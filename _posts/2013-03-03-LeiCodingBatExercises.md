@@ -4,28 +4,15 @@ author: lei
 title: Lei's meetup reflection
 date: 2014-05-03
 ---
+The first link is about a two-day meet up. 
+https://plus.google.com/106148551333929731569/posts/ZkV3m93yfCj
 
-This should be my last post in INLS560. I have a great semester with you guys. Thanks Elliott,Grant and 
-all the guys in class! 
+The second link is about a one-day meet up.
+https://plus.google.com/106148551333929731569/posts/b7C24YN7eWu
 
-I have been two meetups but one is 48 hours' big event, I think it will be counted as 2. Is that right?
+Both of the two meet-ups offer me a great opportunity to learn new knowledge and meet people in an inspiring and efficient way. I was very excited that many of my questions can be solved very quickly in the meeting. When I tried to figure out the solutions to some questions on my own, it took a lot of time to search online, read instructions, and filter information. Sometimes I got stuck for hours on a single question. However, during the meeting, my questions were all solved quickly and I was inspired by opinions from other people's perspectives. 
 
-(1) HackNc, https://plus.google.com/115820192701119569473/posts/KopH32EJ3pV
+Another thing I benefit from these meetings is that it allowed me to meet many people. It was nice talking to people who share similar interest with me and exchanging experience and opinions with each other. 
 
-It is a great event! 2 days meetup, ate there, slept there. After it, I alomost died.
-I think it should be counted as 3 or more :)
-That's my favourate meetups I have attended. I met a lot of  awesome programmer and some IT companies's HR.
-What they did and told helps me a lot.
+Overall, it was a great experience to participate the meet-ups and made myself exposed to a broader variety of perspectives.
 
-(2) https://plus.google.com/115820192701119569473/posts/CKinyPGSkWr Google Glass developer programmer Meetup.
-
-I have explored google glass development for 2 months. And this meetups let me know my future step. Other programmers'
-idea really open my eyes.
-
-
-Overall: Meetup is a cool things which help me know more programmer, learn more knowledge.
-
-
-Thank you guys, I have a lot of fun in the class.
-
-Have a nice holiday!
